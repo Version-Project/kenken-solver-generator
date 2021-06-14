@@ -1,6 +1,6 @@
 # KenKen Solver & Generator
 
-The goal of this project is to create efficients solver and generator.
+The goal of this project is to create efficients solver and generator for the logical game KenKen.
 
 
 ## Compilation
