@@ -50,7 +50,6 @@ If you want to display the help, use this command:
 ```
 kenken/
 ├── doc/
-│   ├── cahier_besoins.pdf
 │   ├── Doxyfile
 │   ├── mainpage.dox
 |   └── Makefile
